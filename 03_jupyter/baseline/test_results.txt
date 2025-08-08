@@ -1,0 +1,18 @@
+Accuracy: 0.8333
+
+Classification Report:
+                precision    recall  f1-score   support
+
+dokujo-tsushin       0.87      0.82      0.84        87
+  it-life-hack       0.95      0.93      0.94        87
+ kaden-channel       0.96      0.84      0.90        87
+livedoor-homme       0.69      0.39      0.50        51
+   movie-enter       0.81      0.89      0.85        87
+        peachy       0.63      0.75      0.68        85
+          smax       0.99      1.00      0.99        87
+  sports-watch       0.78      0.86      0.81        90
+    topic-news       0.79      0.84      0.82        77
+
+      accuracy                           0.83       738
+     macro avg       0.83      0.81      0.82       738
+  weighted avg       0.84      0.83      0.83       738
